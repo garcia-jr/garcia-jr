@@ -2,7 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=garcia-jr&show_icons=true&theme=midnight-purple)
+![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=garcia-jr&show_icons=true&theme=midnight-purple) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garcia-jr&hide_progress=true)
 
 ## Tecnologias que eu estou estudando
 
