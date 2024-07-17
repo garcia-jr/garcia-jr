@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Denivaldo Junior 🤙
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denivaldo-junior-8b401a260/)
 
 ![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=garcia-jr&show_icons=true&theme=merko) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garcia-jr&hide_progress=true)
